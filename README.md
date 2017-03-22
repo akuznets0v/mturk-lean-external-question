@@ -1,5 +1,5 @@
 # mturk-lean-external-question
-A lean, mean, very quickly deployable ExternalQuestion for Amazon Mechanical Turk. MTurk HITs simplified to a hosted static file. 
+A lean, mean, very quickly deployable ExternalQuestion template for Amazon Mechanical Turk. Specifically useful as it requires nothing beyond static files. 
 
 # Overview
 Using an ExternalQuestion is the easiest way to get MTurk workers to work on an arbitrary microtask and gives a requester the freedom to define their interface as they wish.
